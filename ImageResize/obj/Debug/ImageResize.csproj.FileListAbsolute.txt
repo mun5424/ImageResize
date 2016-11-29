@@ -1,0 +1,9 @@
+C:\Users\charles.oh\AppData\Local\Temporary Projects\ImageResize\bin\Debug\ImageResize.exe.config
+C:\Users\charles.oh\AppData\Local\Temporary Projects\ImageResize\bin\Debug\ImageResize.exe
+C:\Users\charles.oh\AppData\Local\Temporary Projects\ImageResize\bin\Debug\ImageResize.pdb
+C:\Users\charles.oh\AppData\Local\Temporary Projects\ImageResize\obj\Debug\ImageResize.csprojResolveAssemblyReference.cache
+C:\Users\charles.oh\AppData\Local\Temporary Projects\ImageResize\obj\Debug\ImageResize.exe
+C:\Users\charles.oh\AppData\Local\Temporary Projects\ImageResize\obj\Debug\ImageResize.pdb
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\ImageResize\ImageResize\bin\Debug\ImageResize.exe.config
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\ImageResize\ImageResize\obj\Debug\ImageResize.exe
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\ImageResize\ImageResize\obj\Debug\ImageResize.pdb
